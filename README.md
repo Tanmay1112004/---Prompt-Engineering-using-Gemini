@@ -26,14 +26,10 @@ It’s ideal for **developers, students, and professionals** exploring AI-powere
 
 ## 🧠 Demo Preview
 
-> 📸 *Add your screenshots here later for visual impact (UI, sidebar, sample queries, etc.)*
-
-```text
-/screenshots/
- ├── home_page.png
- ├── settings_sidebar.png
- └── ai_response_example.png
-````
+![demo](https://github.com/Tanmay1112004/Prompt-Engineering-using-Gemini/blob/main/screenshots/Screenshot%202025-10-08%20143357.png)
+![demo](https://github.com/Tanmay1112004/Prompt-Engineering-using-Gemini/blob/main/screenshots/Screenshot%202025-10-08%20143449.png)
+![demo](https://github.com/Tanmay1112004/Prompt-Engineering-using-Gemini/blob/main/screenshots/Screenshot%202025-10-08%20143550.png)
+![demo](https://github.com/Tanmay1112004/Prompt-Engineering-using-Gemini/blob/main/screenshots/Screenshot%202025-10-08%20143615.png)
 
 ---
 
