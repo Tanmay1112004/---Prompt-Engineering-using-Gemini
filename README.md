@@ -244,10 +244,5 @@ This project is licensed under the **MIT License** — feel free to use and modi
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red" alt="Made with Love">
   <br><br>
   <b>Developed by Tanmay Kshirsagar</b><br>
-  <sub>Version 1.0 • Last Updated: October 2025 • Compatible with Python 3.8+</sub>
 </p>
 ```
-
----
-
-Would you like me to also generate a **short LinkedIn post caption** to share this project (HR-attractive & professional tone)?
